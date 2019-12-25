@@ -32,7 +32,7 @@ public class Vytracklaunchlogin {
         } else {
             System.out.println("Test failed");
         }
-        driver.close();
+        //driver.close();
 
 
 

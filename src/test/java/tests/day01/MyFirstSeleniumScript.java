@@ -8,5 +8,14 @@ public class MyFirstSeleniumScript {
         WebDriverManager.chromedriver().setup();
         ChromeDriver driver =new ChromeDriver();
         driver.get("http://google.com");
+        String actualResult=driver.getTitle();
+        String expectedResult="Google";
+        if (actualResult.equalsIgnoreCase(expectedResult)){
+            System.out.println("Test passed");
+        }else{
+            System.out.println("Test failed");
+        }
+    driver.close();
+
     }
 }
