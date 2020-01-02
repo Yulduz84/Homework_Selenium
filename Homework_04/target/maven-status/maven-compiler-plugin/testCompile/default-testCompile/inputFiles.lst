@@ -1,0 +1,14 @@
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/pages/CreateCarPage.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/utilities/BrowserUtils.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/utilities/ConfigurationReader.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/pages/VehiclesPage.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/step_definitions/LoginStepDefinitions.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/utilities/Driver.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/pages/CreateCalendarEventPage.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/runners/CucumberRunner.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/pages/LoginPage.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/pages/CalendarEventsPage.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/pages/BasePage.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/step_definitions/CalendarEventsStepDefinitions.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/step_definitions/Hook.java
+/Users/vfomiuk/IdeaProjects/Homework/src/test/java/com/vytrack/step_definitions/TopMenuStepDefinitions.java
